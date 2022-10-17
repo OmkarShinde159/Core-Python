@@ -1,0 +1,1 @@
+x = ("hello world this is outside module")
